@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/gameExample/api/Main.java=UTF-8
+encoding//src/gameExample/business/abstracts/GamerCheckService.java=UTF-8
+encoding//src/gameExample/business/concretes/GamerManager.java=UTF-8
+encoding//src/gameExample/business/concretes/SaleManager.java=UTF-8
+encoding//src/gameExample/entities/concretes/Campaign.java=UTF-8
