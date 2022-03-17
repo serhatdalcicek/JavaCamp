@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/api/Main.java=UTF-8
+encoding//src/business/abstracts/BaseUserManager.java=UTF-8
+encoding//src/business/abstracts/IUserService.java=UTF-8
+encoding//src/business/abstracts/IUserValidationService.java=UTF-8
+encoding//src/business/abstracts/IUserVerificationService.java=UTF-8
+encoding//src/business/concretes/UserValidationManager.java=UTF-8
+encoding//src/business/concretes/UserVerificationManager.java=UTF-8
